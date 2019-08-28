@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "corejs.io",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "coming soon",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Chris Nienhuis <neenhouse@gmail.com",
   "dependencies": {
     "gatsby": "^2.13.73",
     "gatsby-image": "^2.2.10",
@@ -22,7 +22,7 @@
     "prettier": "^1.18.2"
   },
   "keywords": [
-    "gatsby"
+    "corejs.io"
   ],
   "license": "MIT",
   "scripts": {
